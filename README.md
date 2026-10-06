@@ -142,9 +142,9 @@ We are interested in the reasoning behind these choices.
 
 # Design
 
-The design can be found in Figma:
+The design is shown below:
 
-[Figma – Workout Player](https://www.figma.com/design/KFsazn411oQVGqGMU7qUNd/Workout-player?node-id=0-1&p=f&t=2LrLELgzbSnEZuCC-0&utm_source=chatgpt.com)
+![Workout Player design](example-design.png)
 
 The implementation does not need to reproduce every pixel exactly, but the overall UI and interaction should follow the provided design.
 
